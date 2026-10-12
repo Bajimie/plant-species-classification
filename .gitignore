@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+Leaf_balanced_for_python.csv
+leaf_balanced_for_python.arff
